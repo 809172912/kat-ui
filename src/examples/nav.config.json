@@ -1,0 +1,51 @@
+{
+  "开发指南": [
+    {
+      "name": "logs",
+      "path": "/logs",
+      "desc": "更新日志"
+    }
+  ],
+  "组件": [
+    {
+      "desc": "基础",
+      "items": [
+        {
+          "desc": "Button 按钮",
+          "name": "button",
+          "path": "/button"
+        }
+      ]
+    },
+    {
+      "desc": "预览",
+      "items": [
+        {
+          "desc": "ViewPpt 预览ppt",
+          "name": "view-ppt",
+          "path": "/viewPpt"
+        },
+        {
+          "desc": "ViewPdf 预览pdf",
+          "name": "view-pdf",
+          "path": "/viewPdf"
+        },
+        {
+          "desc": "ViewPicture 预览图片",
+          "name": "view-picture",
+          "path": "/view-picture"
+        }
+      ]
+    },
+    {
+      "desc": "其他",
+      "items": [
+        {
+          "desc": "Loading 按钮",
+          "name": "loading",
+          "path": "/loading"
+        }
+      ]
+    }
+  ]
+}
