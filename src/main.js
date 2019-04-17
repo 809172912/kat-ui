@@ -4,7 +4,7 @@ import router from './examples/router'
 import store from './store'
 import demoBlock from './examples/components/demo-block'
 import katUI from './packages/components/index'
-import './packages/default-theme/index.css'
+import './packages/default-theme/src/index.css'
 
 Vue.config.productionTip = false
 

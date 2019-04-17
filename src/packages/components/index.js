@@ -1,9 +1,7 @@
-import TopBar from './TopBar.vue'
-import CButton from './CButton.vue'
+import KButton from './Button.vue'
 
 const Components = {
-  TopBar,
-  CButton
+  KButton
 }
 
 const install = function (Vue) {
@@ -18,8 +16,7 @@ if (typeof window !== 'undefined' && window.Vue) {
 }
 
 export {
-  TopBar,
-  CButton
+  KButton
 }
 
 export default {

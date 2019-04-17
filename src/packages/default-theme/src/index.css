@@ -1,0 +1,5 @@
+@import './common/reset.css';
+
+.k-button {
+  display: block;
+}

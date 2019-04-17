@@ -5,9 +5,7 @@
 
 <div class="demo-block">
     <div>
-        <div><kat-button></kat-button></div>
-        <br>
-        <div><kat-button text="hello world"></kat-button></div>
+        <k-button>kat-ui button2</k-button>
     </div>
 </div>
 
@@ -15,9 +13,7 @@
 ```html
 
 <div>
-    <div><kat-button></kat-button></div>
-    <br>
-    <div><kat-button text="hello world"></kat-button></div>
+    <k-button>kat-ui button2</k-button>
 </div>
 
 ```
